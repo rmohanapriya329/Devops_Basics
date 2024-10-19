@@ -1,0 +1,98 @@
+<!doctype html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  <title>Document</title>
+ </head>
+
+ 
+<body>
+  <h1> Welcome hfgggg</h1> <br>
+  <h2> Welcome </h2> <br>
+  <h3> Welcome </h3> <br>
+  <h4> Welcome </h4> <br>
+  <h5> Welcome </h5> <br>
+  <h6> Welcome </h6> <br>
+  
+  <a href=" https://www.google.com/search?q=computer+networks&oq=computer&gs_lcrp=EgZjaHJvbWUqDQgBEAAYgwEYsQMYgAQyDAgAEEUYORixAxiABDINCAEQABiDARixAxiABDIKCAIQABixAxiABDIKCAMQABixAxiABDINCAQQABiDARixAxiABDIKCAUQABixAxiABDIKCAYQABixAxiABDIKCAcQABixAxiABDIQCAgQABiDARixAxiABBiKBTIHCAkQABiABNIBCjI5MjQzajBqMTWoAgCwAgA&sourceid=chrome&ie=UTF-8" /a> <br>
+ 
+  <font> times new romen </font> <br>
+
+  <i> Hello html </i> <br>
+
+  <marquee bgcolor="#cccccc" loop="-1" scrollamount="2" width="100%"> example marquee</marquee> <br>
+
+  <p>HTML is the standard markup language for Web pages. With HTML you can create your own Website. HTML is easy to learn - You will enjoy it!</p> <br>
+
+  <small> Example </small> <br>
+
+  <strike> Example1 </strike> <br>
+
+  <strong> Example2 </strong> <br>
+
+  <list> 
+  <ol type="1">
+  <li> mohanapriya </li>
+  <li> sathyapriya </li>
+  <li> sanmugapriya </li>
+  <li> divyapriya </li>
+  </ol>
+  </list>
+
+  <td>
+  <tr>
+  <td> column1 </td>
+  <td> column2 </td>
+  </tr>
+  <td><br>
+
+
+  <tr>
+  <th> Name </th>
+  <th> Regno </th>
+  <th> subject </th>
+  </tr><br>
+
+  <tr>
+  <td> priya </td>
+  <td> 10001 </td>
+  <td> python </td>
+  </tr><br>
+
+  <tr>
+  <td> suriya </td>
+  <td> 10002 </td>
+  <td> tamil </td>
+  </tr><br>
+
+  <ul type ="disc">
+  <li> Name 1 </li>
+  <li> Name 2 </li>
+  <ul type ="circle">
+  <li> priya </li>
+  <li> saira </li>
+  </ul>
+  </ul> <br>
+
+ <u> UnderLine </u> <br>
+
+ <menu>
+ <li type="disc">  list 1 </li>
+ <li type="circle">  list 2 </li>
+ <li type="square">  list 3 </li>
+ </menu><br>
+
+ <head>
+ <link rel="stylesheet" href="styles.css">
+ </head>
+
+ <img src="vlcsnap-2023-05-04-10h24m12s141.png">
+
+
+
+</body>
+</html>
